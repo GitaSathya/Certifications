@@ -56,6 +56,7 @@ This repository is a comprehensive collection of all my certifications, categori
 
 # Google Cloud Skill Boost Badges 🎓
 
+[GitaSathya](https://www.cloudskillsboost.google/public_profiles/4f70621f-85f4-4bee-80cf-7c9efee91332)
 I have earned the following Google Cloud Skill Boost badges by completing various hands-on labs, quests, and challenges. Each badge represents a step forward in my journey to mastering cloud technologies.  
 
 | Badge | Course Name | Description |
